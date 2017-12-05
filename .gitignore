@@ -1,5 +1,6 @@
-/target
+**/target
 /.idea
 /jcurl.iml
 .DS_Store
 Thumbs.db
+*.class
